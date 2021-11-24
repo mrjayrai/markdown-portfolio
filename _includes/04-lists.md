@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Emoji
+2. Gif
+3. Sticker
+   1. 3d
+   2. 2d
